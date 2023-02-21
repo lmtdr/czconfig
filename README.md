@@ -6,4 +6,4 @@ spouští se při zapnutí hry
 ### coolfig.cfg
 hlavní odkazovač na configy ve složce
 ### reset.cfg
-hodí csko do defaultního stavu (aliasy se vyresetují při restartu hry)
+hodí hru do defaultního stavu (aliasy se vyresetují při restartu hry)
